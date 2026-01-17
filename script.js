@@ -52,3 +52,5 @@ document.addEventListener(
   'keydown',
   e => e.key === 'Escape' && toggleFunction()
 );
+
+// update
